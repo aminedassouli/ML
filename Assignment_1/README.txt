@@ -10,14 +10,14 @@ Working on two classification problems using  five supervised machine learning a
 - keras
 
 ## Running the code
-Here is the link to Github with two jupyter notebooks (one for each classification problem/dataset): https://github.com/aminedassouli/ML/Assignment_1
+Here is the link to Github with two jupyter notebooks (one for each classification problem/dataset): https://github.com/aminedassouli/ML/tree/master/Assignment_1
 
 There should not any problem to run the code if following the jupyter cell by cell.
 The analysis is done on PDF file.
 
 
 # Datasets :
-The two datasets can be found in the github repository as well (https://github.com/aminedassouli/ML/Assignment_1/Data). 
+The two datasets can be found in the github repository as well (https://github.com/aminedassouli/ML/tree/master/Assignment_1/Data). 
 
 They can also be downloaded directly from kaggle:
 
